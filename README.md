@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-<!--
+<!--whoami:
+  name: Shivansh Pal
+  role: Aspiring Software Engineer
+  education: YOUR-DEGREE, YOUR-YEAR student
+  builds: practical projects, from web apps to ML pipelines
+  sharpening: core fundamentals, DSA in Java
+  approach: build real things first, then refine the basics behind them
+  open_to: [internships, collaborations, project ideas]
 **shivansh909pal/shivansh909pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
