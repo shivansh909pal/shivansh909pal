@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--whoami:
+#<!--whoami:
   name: Shivansh Pal
   role: Aspiring Software Engineer
   education: YOUR-DEGREE, YOUR-YEAR student
