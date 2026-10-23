@@ -23,7 +23,7 @@
 
   <!-- left side -->
   <text x="48" y="105" font-family="Courier New, monospace" font-size="22" fill="#e6efe8">
-    <tspan fill="#86e08f">$</tspan> whoami
+    <tspan fill="#86e08f">$</tspan> you can call me:
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" fill="freeze"/>
   </text>
 
