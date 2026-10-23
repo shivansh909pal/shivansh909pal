@@ -2,11 +2,11 @@
   <img src="./assets/header.svg" alt="Shivansh Pal - Aspiring Software Engineer" width="100%" />
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/shivanshpal909"><img src="https://img.shields.io/badge/LINKEDIN-YOUR--HANDLE-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:shivansh0903p@gmail.com"><img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-e8553d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/shivansh909pal?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-BROWSE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-</p>
+<a href="https://instagram.com/whokilledshivanshhh"><img src="https://img.shields.io/badge/INSTAGRAM-YOUR--HANDLE-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://discord.com/users/YOUR-USER-ID"><img src="https://img.shields.io/badge/DISCORD-YOUR--HANDLE-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://leetcode.com/u/shivansh909"><img src="https://img.shields.io/badge/LEETCODE-YOUR--HANDLE-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://codeforces.com/profile/YOUR-HANDLE"><img src="https://img.shields.io/badge/CODEFORCES-YOUR--HANDLE-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://YOUR-SITE.com"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 ## 01 / about
 
