@@ -3,9 +3,9 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-YOUR--HANDLE-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-e8553d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-BROWSE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="https://linkedin.com/in/shivanshpal909"><img src="https://img.shields.io/badge/LINKEDIN-YOUR--HANDLE-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shivansh0903p@gmail.com"><img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-e8553d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/shivansh909pal?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-BROWSE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
 ## 01 / about
