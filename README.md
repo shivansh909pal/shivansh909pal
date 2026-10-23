@@ -11,7 +11,7 @@
 ## 01 / about
 
 ```yaml
-whoami:
+you can call me:
   name: Shivansh Pal
   role: Aspiring Software Engineer
   education: YOUR-DEGREE, YOUR-YEAR student
