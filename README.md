@@ -25,7 +25,7 @@ you can call me:
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [project-one](https://github.com/YOUR-GITHUB-USERNAME/project-one) | One line about it | Python |
+| [project-one](https://github.com/shivansh909pal/SKY-Fitness-Gym-Website) | One line about it | Javascript |
 | [project-two](https://github.com/YOUR-GITHUB-USERNAME/project-two) | One line about it | Java |
 
 ## 03 / stack
