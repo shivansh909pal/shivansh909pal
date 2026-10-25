@@ -14,7 +14,7 @@
 you can call me:
   name: Shivansh Pal
   role: Aspiring Software Engineer
-  education: YOUR-DEGREE, YOUR-YEAR student
+  education: Btech, 2-YEAR student
   builds: practical projects, from web apps to ML pipelines
   sharpening: core fundamentals, DSA in Java
   approach: build real things first, then refine the basics behind them
